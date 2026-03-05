@@ -23,16 +23,16 @@ The submission should end up looking something similar to this:
 .
 └── project name folder/
     ├── project.md
-    │   ├── Name
+    │   ├── # Name
     │   ├── Description of Project
-    │   ├── Further Links
-    │   ├── Slide 0 - title slide
+    │   ├── ### Further Links
+    │   ├── ## Slide 0 - title slide
     │   │   └── Slide 0 speaker notes
-    │   ├── Slide 1 - Changelog
+    │   ├── ## Slide 1 - Changelog
     │   │   └── Slide 1 speaker notes
-    │   ├── Slide 2 - Roadmap/Future
+    │   ├── ## Slide 2 - Roadmap/Future
     │   │   └── Slide 2 speaker notes
-    │   └── Presence at LGM
+    │   └── ## Presence at LGM
     ├── Slide 0.png
     ├── Slide 1.jpg
     ├── Slide 2.png
